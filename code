@@ -5,8 +5,7 @@
 // @description  Make it beautiful
 // @author       Fr0stii
 // @match        https://hot-potato.reddit.com/embed*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @downloadURL 
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com 
 // @grant        none
 // ==/UserScript==
 if (window.top !== window.self) {
